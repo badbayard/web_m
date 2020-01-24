@@ -1,11 +1,5 @@
 # TP MIF15 - alias MifMap
 
-#### Binôme
-
-* Yannis Hutt 
-* Kévin Sadecki 
-
-
 # Préambule
 
 L'objectif de ce tp était de nous familiariser avec les technologies du web en JavaScript.
@@ -115,9 +109,7 @@ Elle est composée du Menu, et du composant Admin qui celui ci se découpe en 2 
 # Installation
 
 
-Executez la commande suivante :
 
-``` git clone https://forge.univ-lyon1.fr/p1408376/dev-web-mobile.git ```
 
 Ce qui clonera ce projet dans le dossier courant.
 
