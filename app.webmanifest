@@ -1,0 +1,13 @@
+{
+    "name": "dev-web-mobile",
+    "short_name":"dwm",
+    "description": "application du tp",
+    "icons":[
+        {
+            "src" : "src/assets/img/uc.jpg", 
+            "sizes":"250*178",  
+            "type": "image/png"        
+        }
+    ],
+    "start_url": "src/js/index.js"
+}

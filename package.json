@@ -1,0 +1,43 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Ceci est le tp de web avance",
+  "private": true,
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@forge.univ-lyon1.fr:p1408376/dev-web-mobile.git"
+  },
+  "keywords": [
+    "webavance"
+  ],
+  "author": "Yannis Hutt et Kevin Sadecki",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-ws": "^4.0.0",
+    "file-loader": "^3.0.1",
+    "jquery": "^3.3.1",
+    "leaflet": "^1.4.0",
+    "leaflet-css": "^0.1.0",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.11",
+    "npm": "^6.9.0",
+    "purecss": "^1.0.0",
+    "vue": "^2.6.8",
+    "vue-route": "^1.5.1",
+    "vue-router": "^3.0.2",
+    "vuex": "^3.1.0"
+  },
+  "devDependencies": {
+    "css-loader": "^2.1.0",
+    "style-loader": "^0.23.1",
+    "vue-template-compiler": "^2.6.9",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  }
+}
